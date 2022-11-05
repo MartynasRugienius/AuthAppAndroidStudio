@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268702976724",
+    "project_id": "auth-7a6c0",
+    "storage_bucket": "auth-7a6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268702976724:android:292f0d14237299eceac941",
+        "android_client_info": {
+          "package_name": "com.example.credentialsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268702976724-2rr5ilsk0kr029f4tv3g5pehkm5ol79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA03yVWBtZEMDdpVNtJlra96leQsr14Jk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268702976724-2rr5ilsk0kr029f4tv3g5pehkm5ol79m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
